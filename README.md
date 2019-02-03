@@ -1,6 +1,10 @@
 # Military-Drugs-Check-Point
 epoch 1.6.2
 
+
+PLEASE DONATE: https://github.com/juandayz/Military-Drugs-Check-Point/blob/master/DONATION.md
+
+
 This one is used to create a police/military check point. If officers catch you with itemkilohemp (drugs) in your inventory they gonna remove it.
 
 ***Note: you gonna need create a map building in arma2 editor 3d for it and get your own coords.
